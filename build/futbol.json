@@ -1,0 +1,32 @@
+[
+    {
+        "equipo": "Barcelona",
+        "pais": "España",
+        "liga": "La Liga",
+        "titulos": 26
+    },
+    {
+        "equipo": "Real Madrid",
+        "pais": "España",
+        "liga": "La Liga",
+        "titulos": 34
+    },
+    {
+        "equipo": "Manchester United",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "titulos": 20
+    },
+    {
+        "equipo": "Liverpool",
+        "pais": "Inglaterra",
+        "liga": "Premier League",
+        "titulos": 19
+    },
+    {
+        "equipo": "Bayern de Múnich",
+        "pais": "Alemania",
+        "liga": "Bundesliga",
+        "titulos": 31
+    }
+]
